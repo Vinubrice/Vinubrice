@@ -2,6 +2,8 @@
 
 ### I'm Vinubrice, a high school student with a demonstrated passion for artificial intelligence (AI)🧠, deep neural networks (DNNs), the Internet of Things (IoT), CyberSecurity (BlackBox pen-testing)🔐, and software development 💻. I'm actively expanding my knowledge and exploring the potential development and application of these technologies.
 
+![](https://raw.githubusercontent.com/Vinubrice/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![](https://raw.githubusercontent.com/Vinubrice/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 ### *Programming Languages:* ✨
 - Kotlin
 - HTML
