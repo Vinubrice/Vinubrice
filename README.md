@@ -24,8 +24,13 @@
 - Developing a note-taking app
 
 ### *Badges and Achievements:* 🏆
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+| [Artificial Intelligence Fundamentals](https://www.credly.com/badges/e988e650-0178-4bb8-ab2a-0df018294f5c/public_url) - Issued by IBM-SkillsBuild | [Cybersecurity Fundamentals](https://www.credly.com/badges/628fe873-2d94-4088-8244-57bb08141ec4/public_url) - Issued by IBM-SkillsBuild |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Artificial Intelligence](/assets/credly/artificial-intelligence-fundamentals.png)                                                               | ![CyberSecurity](/assets/credly/cybersecurity-fundamentals.png)                                                                         |
+| [Machine Learning with Python](https://www.credly.com/badges/c92d6a45-0855-4044-add2-d1af476c6eed/public_url) - Issued by IBM-SkillsBuild         | [Python for Data Science](https://www.credly.com/badges/744c089b-2293-4dee-b03b-e92268630394/public_url) - Issued by IBM                |
+| ![Machine Learning with Python](/assets/credly/machine-learning-with-python.png)                                                                  | ![Python for Data Science](/assets/credly/python-for-data-science.png)                                                                  |
+| [IBM Blockchain Essentials V2](https://www.credly.com/badges/e48aa940-107a-4ff2-bb28-dc7226ded047/public_url) - Issued by IBM                     | [Build Your Own Chatbot - Level 1](https://www.credly.com/badges/fc6d06af-2da1-47e3-b5fa-9569da4435ea/public_url) - Issued by IBM       |
+| ![IBM Blockchain Essentials V2](/assets/credly/ibm-blockchain-essentials-v2.png)                                                                  | ![Build Your Own Chatbot - Level 1](/assets/credly/build-your-own-chatbot-level-1.png)                                                  |
 
 <!--
 **Vinubrice/Vinubrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
