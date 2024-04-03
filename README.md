@@ -23,6 +23,10 @@
 ### *Currently Working On....* ✍️
 - Developing a note-taking app
 
+### *Badges and Achievements:* 🏆
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <!--
 **Vinubrice/Vinubrice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
