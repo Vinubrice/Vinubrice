@@ -2,8 +2,6 @@
 
 ### I'm Vinubrice, a high school student with a demonstrated passion for artificial intelligence (AI)🧠, deep neural networks (DNNs), the Internet of Things (IoT), CyberSecurity (BlackBox pen-testing)🔐, and software development 💻. I'm actively expanding my knowledge and exploring the potential development and application of these technologies.
 
-<a href="https://app.daily.dev/vinubrice"><img src="https://api.daily.dev/devcards/v2/47CngLsyUjpJwqEaUhPhQ.png?type=default&r=p8n" width="356" alt="Vinubrice's Dev Card"/></a> ![Metrics](/github-metrics.svg) 
-
 ### *Programming Languages:* ✨
 - Kotlin
 - HTML
