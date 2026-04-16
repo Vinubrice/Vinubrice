@@ -1,6 +1,6 @@
 ## *Hi there!* 👋
 
-### I'm Vinu brice, a high school student with a demonstrated passion for deep neural networks (DNNs), the Internet of Things (IoT), software development 💻 and Quantum Computing. I'm actively expanding my knowledge and exploring the potential development and application of these technologies.
+### I'm Vinu Brice, a high school student with a demonstrated passion for deep neural networks (DNNs), the Internet of Things (IoT), software development 💻 and Quantum Computing. I'm actively expanding my knowledge and exploring the potential development and application of these technologies.
 
 ### *Programming Languages:* ✨
 - Kotlin
