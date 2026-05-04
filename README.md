@@ -1,22 +1,20 @@
 ## *Hi there!* 👋
 
-### I'm Vinu Brice, a high school student with a demonstrated passion for deep neural networks (DNNs), the Internet of Things (IoT), software development 💻 and Quantum Computing. I'm actively expanding my knowledge and exploring the potential development and application of these technologies.
+### I'm Vinu Brice, student with a demonstrated passion for deep neural networks (DNNs), the Internet of Things (IoT), software development 💻 and Quantum Computing. I'm actively expanding my knowledge and exploring the potential development and application of these technologies.
 
 ### *Programming Languages:* ✨
 - Kotlin
-- HTML
 - Python
+- Rust
 - Dart
 
 ### *Familiar with....* ⚡
 - Jetpack Compose
+- Svelte/React
 - Electron.js
-- Material Design 3
 - Jupiter Notebooks
 
 ### *Currently Learning....* 🌲
-- Tensorflow
-- BlockChain
 - Quantum computing
 
 ### *Currently Working On....* ✍️
