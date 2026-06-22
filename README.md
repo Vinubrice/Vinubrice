@@ -1,6 +1,6 @@
 ## *Hi there!* 👋
 
-### I'm Vinubrice, student with a demonstrated passion for deep neural networks (DNNs), the Internet of Things (IoT), software development 💻 and Quantum Computing. I'm actively expanding my knowledge and exploring the potential development and application of these technologies.
+### I'm Vinubrice, student with a demonstrated passion for deep neural networks (DNNs), the Internet of Things (IoT), Quantum computing and software development 💻. I'm actively expanding my knowledge and exploring the potential development and application of these technologies.
 
 ### *Programming Languages:* ✨
 - Kotlin
